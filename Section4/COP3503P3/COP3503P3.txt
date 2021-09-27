@@ -1,0 +1,1 @@
+Debug/Node.cpp.o Debug/Stack.cpp.o Debug/main.cpp.o   

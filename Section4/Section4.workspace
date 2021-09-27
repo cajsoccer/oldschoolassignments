@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section4" Database="" Version="10000">
+  <Project Name="Pointers" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Inherritance" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="Objects" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <Project Name="OperatorOverloading" Path="NewPrac/NewPrac.project" Active="No"/>
+  <Project Name="Polymorphism" Path="Polymorphism/Polymorphism.project" Active="No"/>
+  <Project Name="Prac" Path="Prac/Prac.project" Active="Yes"/>
+  <Project Name="SmartPointers" Path="SmartPointers/SmartPointers.project" Active="No"/>
+  <Project Name="ExceptionHandling" Path="ExceptionHandling/ExceptionHandling.project" Active="No"/>
+  <Project Name="STL" Path="STL/STL.project" Active="No"/>
+  <Project Name="COP3502P1" Path="COP3502P1/COP3502P1.project" Active="No"/>
+  <Project Name="COP3502P2" Path="COP3502P2/COP3502P2.project" Active="No"/>
+  <Project Name="COP3502P3" Path="COP3502P3/COP3502P3.project" Active="No"/>
+  <Project Name="COP3503P1" Path="COP3503P1/COP3503P1.project" Active="No"/>
+  <Project Name="COP3502P4" Path="COP3502P4/COP3502P4.project" Active="No"/>
+  <Project Name="COP3502P5" Path="COP3502P5/COP3502P5.project" Active="No"/>
+  <Project Name="COP3503P2" Path="COP3503P2/COP3503P2.project" Active="No"/>
+  <Project Name="COP3503P3" Path="COP3503P3/COP3503P3.project" Active="No"/>
+  <Project Name="COP3530P1" Path="COP3530P1/COP3530P1.project" Active="No"/>
+  <Project Name="COP3530P2" Path="COP3530P2/COP3530P2.project" Active="No"/>
+  <Project Name="DA_Array" Path="DA_Array/DA_Array.project" Active="No"/>
+  <Project Name="DA_Strings" Path="DA_Strings/DA_Strings.project" Active="No"/>
+  <Project Name="DA_Matrices" Path="DA_Matrices/DA_Matrices.project" Active="No"/>
+  <Project Name="DA_SparseMat" Path="DA_SparseMat/DA_SparseMat.project" Active="No"/>
+  <Project Name="DA_LinkedList" Path="DA_LinkedList/DA_LinkedList.project" Active="No"/>
+  <Project Name="DA_StackQueue" Path="DA_StackQueue/DA_StackQueue.project" Active="No"/>
+  <Project Name="DA_Trees" Path="DA_Trees/DA_Trees.project" Active="No"/>
+  <Project Name="DA_BinHeap" Path="DA_BinHeap/DA_BinHeap.project" Active="No"/>
+  <Project Name="DA_Sorting" Path="DA_Sorting/DA_Sorting.project" Active="No"/>
+  <Project Name="DA_Hashing" Path="DA_Hashing/DA_Hashing.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Pointers" ConfigName="Debug"/>
+      <Project Name="Inherritance" ConfigName="Debug"/>
+      <Project Name="Objects" ConfigName="Debug"/>
+      <Project Name="OperatorOverloading" ConfigName="Debug"/>
+      <Project Name="Polymorphism" ConfigName="Debug"/>
+      <Project Name="Prac" ConfigName="Debug"/>
+      <Project Name="SmartPointers" ConfigName="Debug"/>
+      <Project Name="ExceptionHandling" ConfigName="Debug"/>
+      <Project Name="STL" ConfigName="Debug"/>
+      <Project Name="COP3502P1" ConfigName="Debug"/>
+      <Project Name="COP3502P2" ConfigName="Debug"/>
+      <Project Name="COP3502P3" ConfigName="Debug"/>
+      <Project Name="COP3503P1" ConfigName="Debug"/>
+      <Project Name="COP3502P4" ConfigName="Debug"/>
+      <Project Name="COP3502P5" ConfigName="Debug"/>
+      <Project Name="COP3503P2" ConfigName="Debug"/>
+      <Project Name="COP3503P3" ConfigName="Debug"/>
+      <Project Name="COP3530P1" ConfigName="Debug"/>
+      <Project Name="COP3530P2" ConfigName="Debug"/>
+      <Project Name="DA_Array" ConfigName="Debug"/>
+      <Project Name="DA_Strings" ConfigName="Debug"/>
+      <Project Name="DA_Matrices" ConfigName="Debug"/>
+      <Project Name="DA_SparseMat" ConfigName="Debug"/>
+      <Project Name="DA_LinkedList" ConfigName="Debug"/>
+      <Project Name="DA_StackQueue" ConfigName="Debug"/>
+      <Project Name="DA_Trees" ConfigName="Debug"/>
+      <Project Name="DA_BinHeap" ConfigName="Debug"/>
+      <Project Name="DA_Sorting" ConfigName="Debug"/>
+      <Project Name="DA_Hashing" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Pointers" ConfigName="Release"/>
+      <Project Name="Inherritance" ConfigName="Release"/>
+      <Project Name="Objects" ConfigName="Release"/>
+      <Project Name="OperatorOverloading" ConfigName="Release"/>
+      <Project Name="Polymorphism" ConfigName="Release"/>
+      <Project Name="Prac" ConfigName="Release"/>
+      <Project Name="SmartPointers" ConfigName="Release"/>
+      <Project Name="ExceptionHandling" ConfigName="Release"/>
+      <Project Name="STL" ConfigName="Release"/>
+      <Project Name="COP3502P1" ConfigName="Release"/>
+      <Project Name="COP3502P2" ConfigName="Release"/>
+      <Project Name="COP3502P3" ConfigName="Release"/>
+      <Project Name="COP3503P1" ConfigName="Release"/>
+      <Project Name="COP3502P4" ConfigName="Release"/>
+      <Project Name="COP3502P5" ConfigName="Release"/>
+      <Project Name="COP3503P2" ConfigName="Release"/>
+      <Project Name="COP3503P3" ConfigName="Release"/>
+      <Project Name="COP3530P1" ConfigName="Release"/>
+      <Project Name="COP3530P2" ConfigName="Release"/>
+      <Project Name="DA_Array" ConfigName="Release"/>
+      <Project Name="DA_Strings" ConfigName="Release"/>
+      <Project Name="DA_Matrices" ConfigName="Release"/>
+      <Project Name="DA_SparseMat" ConfigName="Release"/>
+      <Project Name="DA_LinkedList" ConfigName="Release"/>
+      <Project Name="DA_StackQueue" ConfigName="Release"/>
+      <Project Name="DA_Trees" ConfigName="Release"/>
+      <Project Name="DA_BinHeap" ConfigName="Release"/>
+      <Project Name="DA_Sorting" ConfigName="Release"/>
+      <Project Name="DA_Hashing" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,1 @@
+Debug/main.cpp.o Debug/Pokemon.cpp.o Debug/Pokedex.cpp.o   

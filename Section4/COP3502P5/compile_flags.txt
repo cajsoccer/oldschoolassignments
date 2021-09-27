@@ -1,0 +1,9 @@
+-Ic:\MinGW\include\c++\8.1.0
+-Ic:\MinGW\include\c++\8.1.0\x86_64-w64-mingw32
+-Ic:\MinGW\include\c++\8.1.0\backward
+-Ic:\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-Ic:\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-Ic:\MinGW\x86_64-w64-mingw32\include
+-IC:\Users\Carter\Desktop\cpp\Section4\COP3502P5
+-target
+x86_64-pc-windows-gnu
